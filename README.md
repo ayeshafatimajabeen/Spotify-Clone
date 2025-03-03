@@ -8,10 +8,12 @@ HTML,CSS,JavaScript
 
 
 **Installation**
+    
     1.Clone the repository:
     bash
     git clone [https://github.com/ayeshafatimajabeen/Spotify-Clone.git](https://www.google.com/search?q=https://github.com/ayeshafatimajabeen/Spotify-Clone.git)
     cd Spotify-Clone
+   
     2.  Open the index.html file in your web browser.
 
 
